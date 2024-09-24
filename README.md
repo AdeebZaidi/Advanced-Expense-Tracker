@@ -42,7 +42,7 @@ Built using vanilla JavaScript, this app focuses on providing a simple and intui
 
 - Input your expenses, select the appropriate category, and add descriptions.
 - View your expenses in a list format and filter them by category.
-- Analyze your spending patterns with interactive charts.
+- Analyze your spending patterns with interactive UI.
 
 **Contributing:**
 
